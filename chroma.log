@@ -1,0 +1,26 @@
+WARNING:  [23-12-2023 20:31:52] chroma_server_nofile is not supported on Windows. chroma_server_nofile will not be set.
+INFO:     [23-12-2023 20:31:53] Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+DEBUG:    [23-12-2023 20:31:53] Starting component System
+DEBUG:    [23-12-2023 20:31:53] Starting component OpenTelemetryClient
+DEBUG:    [23-12-2023 20:31:53] Starting component SimpleAssignmentPolicy
+DEBUG:    [23-12-2023 20:31:53] Starting component SqliteDB
+DEBUG:    [23-12-2023 20:31:53] Starting component Posthog
+DEBUG:    [23-12-2023 20:31:53] Starting component LocalSegmentManager
+DEBUG:    [23-12-2023 20:31:53] Starting component SegmentAPI
+INFO:     [23-12-2023 20:31:53] Started server process [22896]
+INFO:     [23-12-2023 20:31:53] Waiting for application startup.
+INFO:     [23-12-2023 20:31:53] Application startup complete.
+INFO:     [23-12-2023 20:31:53] Uvicorn running on http://localhost:8000 (Press CTRL+C to quit)
+WARNING:  [23-12-2023 20:36:43] chroma_server_nofile is not supported on Windows. chroma_server_nofile will not be set.
+INFO:     [23-12-2023 20:36:43] Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+DEBUG:    [23-12-2023 20:36:43] Starting component System
+DEBUG:    [23-12-2023 20:36:43] Starting component OpenTelemetryClient
+DEBUG:    [23-12-2023 20:36:43] Starting component SimpleAssignmentPolicy
+DEBUG:    [23-12-2023 20:36:43] Starting component SqliteDB
+DEBUG:    [23-12-2023 20:36:43] Starting component Posthog
+DEBUG:    [23-12-2023 20:36:43] Starting component LocalSegmentManager
+DEBUG:    [23-12-2023 20:36:43] Starting component SegmentAPI
+INFO:     [23-12-2023 20:36:44] Started server process [14856]
+INFO:     [23-12-2023 20:36:44] Waiting for application startup.
+INFO:     [23-12-2023 20:36:44] Application startup complete.
+INFO:     [23-12-2023 20:36:44] Uvicorn running on http://localhost:8000 (Press CTRL+C to quit)
